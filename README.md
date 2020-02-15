@@ -3,7 +3,13 @@
 
 ![Eclipse Tutorial](Hello-eclipse-world-tutorial.png)
 
-## Project files
+## Overview
+
+Simple training exercise - following eclipse HelloWord tutorial:
+- I've not used Eclipse before
+- I'm also switching from MacOSX to Linux Desktop (Ubuntu)
+
+## Eclipse Project files
 ```
 [~/workspace/HelloEclipseWorld] # ls -aR .
 .:
@@ -25,7 +31,7 @@
 
 ```
 
-## Inspect .classpath and .settings/org.eclipse.jdt.core.prefs
+## Inspecting .classpath and .settings/org.eclipse.jdt.core.prefs
 ```
 [~/workspace/HelloEclipseWorld] # cat .classpath 
 <?xml version="1.0" encoding="UTF-8"?>
