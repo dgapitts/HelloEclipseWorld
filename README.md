@@ -1,13 +1,13 @@
 
-# Hello-Eclispe-World
+# Hello Eclipse World
 
-![Eclipse Tutorial](Hello-eclipse-world-tutorail.png)
+![Eclipse Tutorial](Hello-eclipse-world-tutorial.png)
 
 ## 
 ```
 [dpitts:~/workspace/HelloEclispeWorld] # ls -aR .
 .:
-./  ../  bin/  .classpath  .gitignore  Hello-eclipse-world-tutorail.png  .project  README.md  .settings/  src/
+./  ../  bin/  .classpath  .gitignore  Hello-eclipse-world-tutorial.png  .project  README.md  .settings/  src/
 
 ./bin:
 ./  ../  HelloWorld.class
