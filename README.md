@@ -5,7 +5,7 @@
 
 ## 
 ```
-[dpitts:~/workspace/HelloEclispeWorld] # ls -aR .
+[dpitts:~/workspace/HelloEclipseWorld] # ls -aR .
 .:
 ./  ../  bin/  .classpath  .gitignore  Hello-eclipse-world-tutorial.png  .project  README.md  .settings/  src/
 
@@ -20,7 +20,7 @@
 ```
 
 ```
-[dpitts:~/workspace/HelloEclispeWorld] # cat .settings/org.eclipse.jdt.core.prefs 
+[dpitts:~/workspace/HelloEclipseWorld] # cat .settings/org.eclipse.jdt.core.prefs 
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=disabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.2
